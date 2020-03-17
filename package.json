@@ -1,0 +1,14 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "测试案例",
+  "main": "./bin/server.js",
+  "scripts": {
+    "dev": "nodemon ./bin/server.js"
+  },
+  "author": "zhangchaoning",
+  "license": "ISC",
+  "devDependencies": {
+    "cross-env": "^7.0.2"
+  }
+}
